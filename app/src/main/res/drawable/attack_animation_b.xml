@@ -1,0 +1,12 @@
+<!-- res/drawable/attack_animation_b.xml -->
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+    <item android:drawable="@drawable/attack000" android:duration="80" />
+    <item android:drawable="@drawable/attack008" android:duration="80" />
+    <item android:drawable="@drawable/attack009" android:duration="80" />
+    <item android:drawable="@drawable/attack010" android:duration="80" />
+    <item android:drawable="@drawable/attack011" android:duration="80" />
+    <item android:drawable="@drawable/attack012" android:duration="80" />
+    <item android:drawable="@drawable/attack013" android:duration="80" />
+    <item android:drawable="@drawable/attack014" android:duration="80" />
+</animation-list>
